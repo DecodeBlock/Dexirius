@@ -1,4 +1,4 @@
-import Banner from '../components/HomeOne/Banner';
+import Banner from '../components/HomeThree/Banner';
 import Funfact from '../components/Common/Funfact';
 import BuySell from '../components/HomeOne/BuySell';
 import AccountCreate from '../components/Common/AccountCreate';
